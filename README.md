@@ -22,8 +22,6 @@ Hey there! Welcome to my GitHub sanctuary. I'm passionate about cybersecurity an
 ### 📚 Learning Journey
 
 - 🧠 Lifelong Learner: Exploring the latest in cybersecurity to stay one step ahead
-- 
-.
 - 🌱 Open Source Contributor: Collaborating with the community to strengthen the digital defense.
 
 ### 🤫 Privacy Matters
@@ -33,7 +31,7 @@ Hey there! Welcome to my GitHub sanctuary. I'm passionate about cybersecurity an
 
 ### 📫 Connect
 
-- 📧 Email: [Your Email Address]
+- 📧 Email: [Email Address]
 
 Feel free to explore my repositories, and let's make the digital world a safer place together! 🛡️✨
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
