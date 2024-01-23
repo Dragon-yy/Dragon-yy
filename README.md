@@ -2,6 +2,8 @@
 
 # 🔒 Privacy-First Cybersecurity Enthusiast 👨‍💻
 
+![Visitor Count](https://profile-counter.glitch.me/Dragon-yy/count.svg) 
+
 Hey there! Welcome to my GitHub sanctuary. I'm passionate about cybersecurity and believe in the power of privacy-centric coding practices. 👁️✨
 
 ### 🚀 About Me
@@ -14,7 +16,7 @@ Hey there! Welcome to my GitHub sanctuary. I'm passionate about cybersecurity an
 - 🌐 Networking Guardian: Securing the virtual highways to ensure data travels safely.
 - 🔐 Privacy Evangelist: Upholding user confidentiality through code and design choices.
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stac
 
 - 🐍 Python: Crafting elegant solutions with the versatility of Python.
 - 🚀 Golang: Building performant and secure applications using the power of Golang.
@@ -36,8 +38,6 @@ Hey there! Welcome to my GitHub sanctuary. I'm passionate about cybersecurity an
 Feel free to explore my repositories, and let's make the digital world a safer place together! 🛡️✨
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
 
-![Visitor Count](https://profile-counter.glitch.me/Dragon-yy/count.svg)
+![Dragon-yy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragon-yy&show_icons=true&theme=cobalt)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-yy&hide_progress=true)
 
-![Dragon-yy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragon-yy&show_icons=true&theme=cobalt)
